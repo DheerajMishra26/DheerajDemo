@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringbootWithHibernate
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: dell
+Implementation-Vendor-Id: com.javabykiran
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://spring.io/projects/spring-boot/SpringbootW
+ ithHibernate
+Created-By: Maven Integration for Eclipse
+
